@@ -7,11 +7,12 @@ I have spent the last six months working with remote teams helping build full st
 It's been an amazing way to experiment with leadership, refine communication skills, and practice group problem solving. And we also built some cool things!
 
 ## My Tech Stack
-React
+**React
 Cascading Style Sheets
 HTML
 Javascript
 SQL
 Postgress
 Express.js
-Next.js
+Next.js**
+
