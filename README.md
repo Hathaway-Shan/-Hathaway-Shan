@@ -8,11 +8,18 @@ It's been an amazing way to experiment with leadership, refine communication ski
 
 ## My Tech Stack
 **React
-Cascading Style Sheets
-HTML
-Javascript
-SQL
-Postgress
-Express.js
-Next.js**
+
+**Cascading Style Sheets
+
+**HTML
+
+**Javascript
+
+**SQL
+
+**Postgress
+
+**Express.js
+
+**Next.js
 
