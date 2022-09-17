@@ -1,5 +1,7 @@
 # Shan Hathaway
 
+:wave: Hello!
+
 I am a full stack developer in Portland Oregon. Previously I worked in radio and as a freelance editor/sound designer.  
 I have a deep passion for communication, teamwork, and helping people tell their stories in a collaborative environment.
 
