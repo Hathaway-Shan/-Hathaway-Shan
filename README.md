@@ -19,9 +19,9 @@ It's been an amazing way to experiment with leadership, refine communication ski
 
 **SQL**
 
-**Postgress**
+**PostgresSQL**
+
+**Node.js**
 
 **Express.js**
-
-**Next.js**
 
