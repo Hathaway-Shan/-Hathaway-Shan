@@ -8,7 +8,7 @@ I have a deep passion for communication, teamwork, and helping people tell their
 I have spent the last six months working with remote teams helping build full stack applications in sprint week Agile development style.
 It's been an amazing way to experiment with leadership, refine communication skills, and practice group problem solving. And we also built some cool things!
 
-## My Tech Stack
+## Tech Stack
 **React**
 
 **Cascading Style Sheets**
